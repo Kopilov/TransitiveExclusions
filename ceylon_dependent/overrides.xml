@@ -1,0 +1,5 @@
+<overrides xmlns="http://www.ceylon-lang.org/xsd/overrides">
+    <!--add groupId="commons-logging" artifactId="commons-logging" version="1.1.1"/-->
+    <!--remove groupId="commons-logging" artifactId="commons-logging" version="1.2"/-->
+    <!--set groupId="commons-logging" artifactId="commons-logging" version="1.1.1"/-->
+</overrides>
