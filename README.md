@@ -1,6 +1,6 @@
 # TransitiveExclusions
 
-## Example set to reproduce Eclipce/Ceylon [#7377](https://github.com/eclipse/ceylon/issues/7377) issue
+## Example set to reproduce Eclipse/Ceylon [#7377](https://github.com/eclipse/ceylon/issues/7377) issue
 
 `ignite-examples_dependency` directory contains large set of Apache Ignite examples
 downloaded together with Ignite itself (from https://ignite.apache.org/download.cgi#binaries webpage,
