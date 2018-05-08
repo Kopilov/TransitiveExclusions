@@ -12,7 +12,7 @@ and has many transitive dependencies. Also it definitly works and has trivial AP
 **Run `mvn compile && mvn exec:java -Dexec.mainClass="test.igniteprobejava.Main"` in this directory for test execution.**  
 It works.
 
-`ceylon_dependent` is Ceylon project equivalent to java_dependent.
+`ceylon_dependent` is Ceylon project equivalent to java_dependent.  
 **Run `ceylon compile && ceylon run test.igniteprobeceylon` in this directory for test execution.**  
 We get the error:
 ```
