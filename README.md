@@ -1,11 +1,11 @@
 # TransitiveExclusions
 
-## Example set to reproduce Eclipce/Ceylon [#xxx]() issue
+## Example set to reproduce Eclipce/Ceylon [#7377](https://github.com/eclipse/ceylon/issues/7377) issue
 
 `ignite-examples_dependency` directory contains large set of Apache Ignite examples
 downloaded together with Ignite itself (from https://ignite.apache.org/download.cgi#binaries webpage,
 apache-ignite-fabric-2.4.0-bin.zip file). Here it is used as Java project that is built with Maven
-and has many transitive dependencies. Also it definitly works.  
+and has many transitive dependencies. Also it definitly works and has trivial API (main method).  
 **Run `mvn install` in this directory**
 
 `java_dependent` is the simplest Java project that depends on ignite-examples.  
